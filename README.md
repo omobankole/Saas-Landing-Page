@@ -56,9 +56,9 @@ i want to focus more on media query, css grid, positioning and css animations, m
 ### Useful resourses
 
 - [Google Fonts](https://www.fonts.google.com) - This help me with the various fonts used in my project.
-- [Image color picker](https://www.imagecolorpicker.com) - This ihelp me in picking colors from the design given to me.
+- [Image color picker](https://www.imagecolorpicker.com) - This help me in picking colors from the design given to me.
 
-## Auther
+## Author
 
 - Twitter - [@omobankole1](https://www.twitter.com/omobankole1)
 - Github - [@omobankole](https://www.github.com/omobankole)
