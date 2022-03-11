@@ -26,6 +26,7 @@ Users should be able to:
 ### Links
 
 Solution Url: (https://github.com/omobankole/Saas-Landing-Page)
+- [Figma Link](https://www.figma.com/file/3a2RwG2qfzXe9W8pnQQV3S/Untitled?node-id=0%3A1)
 
 ### My Process
 
@@ -56,7 +57,7 @@ i want to focus more on media query, css grid, positioning and css animations, m
 ### Useful resourses
 
 - [Google Fonts](https://www.fonts.google.com) - This help me with the various fonts used in my project.
-- [Image color picker](https://www.imagecolorpicker.com) - This ihelp me in picking colors from the design given to me.
+- [Image color picker](https://www.imagecolorpicker.com) - This help me in picking colors from the design given to me.
 
 ## Auther
 
